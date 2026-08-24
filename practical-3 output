@@ -1,0 +1,13 @@
+Enter number of elements: 100
+
+========== MAX HEAP SORT ==========
+Nanoseconds  : 18000 ns
+Microseconds : 18 us
+Milliseconds : 0 ms
+Seconds      : 1.8e-05 s
+
+========== MIN HEAP SORT ==========
+Nanoseconds  : 16000 ns
+Microseconds : 16 us
+Milliseconds : 0 ms
+Seconds      : 1.6e-05 s
