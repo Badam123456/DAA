@@ -1,0 +1,8 @@
+Enter a non-negative integer (e.g., 20): 20
+
+--- Results for 20! ---
+Iterative Result : 2432902008176640000
+Iterative Time   : 100 ns
+-------------------------------
+Recursive Result : 2432902008176640000
+Recursive Time   : 200 ns
