@@ -1,0 +1,7 @@
+Number of elements: 100
+
+Bubble Sort: 25 microseconds
+Selection Sort: 18 microseconds
+Insertion Sort: 12 microseconds
+Merge Sort: 10 microseconds
+Quick Sort: 8 microseconds
